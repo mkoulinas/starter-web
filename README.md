@@ -15,3 +15,6 @@ There is no fucking purpose
 Put it wherever you want
 
 ## How to contribute
+
+## Copyright
+2018 Mike
