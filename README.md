@@ -16,5 +16,7 @@ Put it wherever you want
 
 ## How to contribute
 
+Please fork this repo and then issue pull request for review
+
 ## Copyright
 2018 Mike
